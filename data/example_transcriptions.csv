@@ -1,0 +1,4 @@
+audio_path,transcription
+"sample_audio.wav","hello world"
+"sample_audio.wav","this is a test"
+"sample_audio.wav","speech recognition example"
